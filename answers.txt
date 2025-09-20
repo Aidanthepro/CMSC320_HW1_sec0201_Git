@@ -9,3 +9,7 @@ Answer: Data science could easily be applied to the commercial sector to analyze
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing is different from merging because when you merge to main your branch gets copied onto mains timeline. When you rebase mains timeline will follow the branch. Thus you can preserve original branch history with merge. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about common data manipulation techniques. With hopes of using the information to create my own personal project. 
