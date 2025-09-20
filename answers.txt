@@ -5,3 +5,7 @@ Answer:  Git is an industry standard version control system. It is useful to fac
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could easily be applied to the commercial sector to analyze invoices and automatically compile important business statistics. For example a man running a fruit stand could get the average amount of fruit he sells in one day or one week or one month, all very easily.  
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing is different from merging because when you merge to main your branch gets copied onto mains timeline. When you rebase mains timeline will follow the branch. Thus you can preserve original branch history with merge. 
